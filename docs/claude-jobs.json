@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T07:43:28.586220+00:00",
+  "lastUpdated": "2026-09-13T08:03:09.549553+00:00",
   "totalJobs": 95,
   "sources": [
     "Anthropic",
@@ -22,6 +22,26 @@
       "tags": [
         "Rust",
         "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5398438008",
+      "company": "Anthropic",
+      "position": "AI Deployment Specialist, Beneficial Deployments",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As a Deployment Manager on the Beneficial Deployments team, you will guide customers from a signed contract into a live, governed, and adopted deployment so that customers achieve tangible impact rather than simply incremental improvement with Claude. You'll guide organizations from contract...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+      "postedAt": "2026-09-11T10:35:46-04:00",
+      "tags": [
+        "Rust",
         "AWS",
         "Claude Code",
         "Anthropic"
@@ -417,28 +437,6 @@
       "tags": [
         "Rust",
         "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5398227008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Auth & Identity",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "The Auth & Identity team builds the authentication, authorization, and identity platform that underpins every Anthropic product: the API, Claude Code, Claude.ai, and our Enterprise offerings. Every login, API key, OAuth token, access decision, and organization record flows through the systems we...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008",
-      "postedAt": "2026-08-21T12:17:20-04:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
         "AWS",
         "Claude Code",
         "Anthropic"
