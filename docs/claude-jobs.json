@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T08:03:09.549553+00:00",
-  "totalJobs": 95,
+  "lastUpdated": "2026-09-14T08:36:43.178986+00:00",
+  "totalJobs": 96,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -444,6 +444,28 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "anth-5398227008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Auth & Identity",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "The Auth & Identity team builds the authentication, authorization, and identity platform that underpins every Anthropic product: the API, Claude Code, Claude.ai, and our Enterprise offerings. Every login, API key, OAuth token, access decision, and organization record flows through the systems we...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008",
+      "postedAt": "2026-08-21T12:17:20-04:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5390894008",
       "company": "Anthropic",
       "position": "Manager Applied AI Architecture, Financial Services",
@@ -548,6 +570,27 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "wwr-huzzle-full-stack-developer-python-react-ai",
+      "company": "Huzzle",
+      "position": "Full-Stack Developer (Python, React, AI)",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Mexico About Huzzle At Huzzle, we connect high-performing B2B sales professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. We match...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+      "postedAt": "2026-08-18T20:34:05+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "AWS",
+        "Claude Code",
+        "MongoDB"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "wwr-happyco-senior-product-designer-mobile-experience",
@@ -682,26 +725,6 @@
         "AWS",
         "Docker",
         "Kubernetes",
-        "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "company": "ZoomInfo Technologies LLC",
-      "position": "Principal Business Intelligence Analyst",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "postedAt": "2026-08-15T07:31:27+00:00",
-      "tags": [
-        "React",
-        "Python",
-        "Rust",
         "Claude Code"
       ],
       "companyIcon": ""
